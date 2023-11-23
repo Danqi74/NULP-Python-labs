@@ -1,0 +1,31 @@
+price,brand,model,memory,battery_capacity,tf_slot,display_frequency,back_cameras,charging_port
+599,Samsung,Galaxy S21,128,4000,1,120,3,USB-C
+799,Apple,iPhone 13,128,3110,0,60,2,Lightning
+399,Xiaomi,Redmi Note 10,64,5000,1,90,4,USB-C
+299,OnePlus,8T,256,4500,0,120,4,USB-C
+699,Google,Pixel 6,128,4080,0,90,2,USB-C
+499,OPPO,Find X3 Pro,256,4500,1,120,4,USB-C
+699,Sony,Xperia 5 III,128,4500,1,120,3,USB-C
+349,Realme,GT Master Edition,128,4300,1,90,3,USB-C
+899,Asus,ROG Phone 5,256,6000,0,144,3,USB-C
+329,Xiaomi,Poco X3,128,5160,1,120,4,USB-C
+1199,Samsung,Galaxy Z Fold 3,256,4400,1,120,3,USB-C
+899,Apple,iPhone 13 Pro,256,3095,0,60,3,Lightning
+349,Xiaomi,Poco F3,128,4520,1,120,3,USB-C
+249,OnePlus,Nord 2,128,4500,1,90,3,USB-C
+999,Google,Pixel 6 Pro,256,5000,0,120,3,USB-C
+599,OPPO,Reno 6 Pro,256,4500,1,90,4,USB-C
+799,Asus,ZenFone 8,256,4000,1,120,3,USB-C
+399,Xiaomi,Redmi Note 11,64,5000,1,60,4,USB-C
+679,OnePlus,9 Pro,256,4500,1,120,4,USB-C
+449,Realme,Narzo 30 Pro,128,5000,1,90,3,USB-C
+849,Apple,iPhone 13 Pro Max,256,4352,0,60,3,Lightning
+329,Xiaomi,Redmi 10,64,5000,1,90,4,USB-C
+599,Samsung,Galaxy S22,128,4500,1,120,3,USB-C
+449,OnePlus,9RT,128,4500,1,90,3,USB-C
+799,Google,Pixel 6a,128,3500,1,90,2,USB-C
+369,Realme,Narzo 50A,128,6000,1,60,3,USB-C
+249,Xiaomi,Redmi Note 9,64,5020,1,60,4,USB-C
+719,OPPO,Find X4 Pro,256,5000,1,120,4,USB-C
+599,Asus,ROG Phone 6,256,6000,1,144,3,USB-C
+499,OnePlus,Nord N20,128,4500,1,90,3,USB-C
